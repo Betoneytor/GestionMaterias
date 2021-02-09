@@ -1,0 +1,26 @@
+<Materias>
+  <Materia>
+    <idM>4</idM>
+    <Nombre>Movil 1</Nombre>
+  </Materia>
+  <Materia>
+    <idM>6</idM>
+    <Nombre>Sistemas Programables</Nombre>
+  </Materia>
+  <Materia>
+    <idM>5</idM>
+    <Nombre>WEB 5</Nombre>
+  </Materia>
+  <Materia>
+    <idM>1</idM>
+    <Nombre>WEB I</Nombre>
+  </Materia>
+  <Materia>
+    <idM>3</idM>
+    <Nombre>WEB III</Nombre>
+  </Materia>
+  <Materia>
+    <idM>7</idM>
+    <Nombre>Movil 5</Nombre>
+  </Materia>
+</Materias>
